@@ -14,6 +14,6 @@ The **FitSpatial** device will measure the 3 dimensional position of chosen body
 
 ## The system
 
-A) Spatial trackers (forming local reference frame)
-B) Spatial references: two nodes that can be places on difference parts of the body
-C) Compute/ connection/ power system
+A) Spatial trackers (forming local reference frame)  
+B) Spatial references: two nodes that can be places on difference parts of the body  
+C) Compute/ connection/ power system  
