@@ -17,3 +17,18 @@ The **FitSpatial** device will measure the 3 dimensional position of chosen body
 A) Spatial trackers (forming local reference frame)  
 B) Spatial references: two nodes that can be places on difference parts of the body  
 C) Compute/ connection/ power system  
+
+
+### Architecture:
+
+#### Depth and rgb information created
+#### Depth and rgb information received by the camera system
+#### "                        " transmitted to the processing stack
+#### Depth co-ordinate map formed, rgb mat formed
+#### Skeletal tracking processing
+#### Joint nodes saved as position wrt time in nd arrays, labelled for each Joint
+####
+
+## references
+*https://arxiv.org/pdf/1902.09212.pdf*
+*https://arxiv.org/pdf/2001.05613.pdf*
