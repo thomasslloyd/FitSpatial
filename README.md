@@ -29,6 +29,17 @@ C) Compute/ connection/ power system -
 #### Joint nodes saved as position wrt time in nd arrays, labelled for each Joint
 ####
 
+## TODO
+
++ extract key points/ nodes as verctors from live-demo.py
++ Reverse engineer construction of frame mat
+
+~~~~{.python}
+# frame = draw_points_and_skeleton(frame, pt, joints_dict()[hrnet_joints_set]['skeleton'], person_index=pid,
+                                 points_color_palette='gist_rainbow', skeleton_color_palette='jet',
+                                 points_palette_samples=10)
+~~~~
+
 ## references
 *https://arxiv.org/pdf/1902.09212.pdf*
 *https://arxiv.org/pdf/2001.05613.pdf*
