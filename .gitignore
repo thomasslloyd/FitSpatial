@@ -1,0 +1,5 @@
+FSenv/
+.vscode/
+*.mov
+*.mp4
+__pycache__/
